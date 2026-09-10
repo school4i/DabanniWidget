@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/school4i/DabanniWidget/releases/download/1.0.1/DabanniWidget_Setup.exe
+1.0.2
+https://github.com/school4i/DabanniWidget/releases/download/1.0.2/DabanniWidget_Setup.exe
